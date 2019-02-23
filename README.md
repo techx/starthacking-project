@@ -12,7 +12,7 @@ We already wrote the code to get questions from OpenTDB, your task is to fill in
 This project has 2 main files: `game.py` and `question_generator.py`. `game.py` is the code for running the game -- this is where you will be writing your code for the game. `question_generator.py` is the code for getting questions for our game; we have already imported that in `game.py` (you can see it at the top of the file that we imported `get_question` to the file).
 
 ## Downloading the Project
-To develop this project, we used GitHub. GitHub is a way for people to share code and collaborate (like Google Docs for code!). GitHub is also a good way to save your code online in case you lose it on your computer (this is called version control, which you can learn more about [here](https://git-scm.com/book/en/v1/Getting-Started-About-Version-Control)).
+To develop this project, we used GitHub. GitHub is a way for people to share code and collaborate (like Google Drive for code!). GitHub is also a good way to save your code online in case you lose it on your computer (this is called version control, which you can learn more about [here](https://git-scm.com/book/en/v1/Getting-Started-About-Version-Control)).
 
 You can download the project to your computer by downloading a zip file or using git. If you have a GitHub account and it is configured on your computer, open your terminal and run `git clone https://github.com/techx/starthacking-project.git` or `git clone git@github.com:techx/starthacking-project.git` if you have your SSH key configured on GitHub. If you do not have git configured, you can click the green "Clone or Download" button and click "Download ZIP".
 
